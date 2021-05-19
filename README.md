@@ -17,3 +17,7 @@ There are many uses for multivaruate statistics on complex datasets:
 2. Others might prefer to use multivariate techniques to rliminate features so that only the most relevant dimensions are retained in a dataset. 
 
 These approaches are not necessarily mutually exclusive as traditional multivariate statistics also employs some form of feature elimination. The difference with modern data science is that machine learning enables the computer to perform feature elimination instead of relying on human discretion. Use case 1 is best for estimating how the manipulation of one predictor might affect the criterion variable; while use case 2 is best for reducing a large number of predictors to just a few significant ones. Use case 1 might be more familiar as "Multiple Regression" while use case two is often demonstrated in techniques such as "Primary Component Analysis" or PCA, and Recursive Feature Elimination (RFE).  
+
+## Precision-vs-Recall
+
+Inferential statistics has traditionally used the terms "Type I error" and "Type II error"; but Data Science prefers has its own jaargon and makes use of "Precision" and "Recall"
