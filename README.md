@@ -20,4 +20,4 @@ These approaches are not necessarily mutually exclusive as traditional multivari
 
 ## Precision-vs-Recall
 
-Inferential statistics has traditionally used the terms "Type I error" and "Type II error"; but Data Science prefers has its own jaargon and makes use of "Precision" and "Recall"
+Inferential statistics has traditionally used the terms "Type I error" and "Type II error"; but Data Science prefers has its own jaargon and makes use of "Precision" and "Recall". Precision reflects theproportion of predictions made by a machine learning model made up of true positives. Recall is the prportio of potential positives correctly identified by a machine learning model. In short, Precision measures the incdence of Type I errors or incorrect identifications; while Recall measuresmeasures the incidence of Type II errors or incorrect rejections. Any machine learning model will be 
