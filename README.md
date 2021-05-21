@@ -19,7 +19,7 @@ There are many uses for multivaruate statistics on complex datasets:
 These approaches are not necessarily mutually exclusive as traditional multivariate statistics also employs some form of feature elimination. The difference with modern data science is that machine learning enables the computer to perform feature elimination instead of relying on human discretion. Use case 1 is best for estimating how the manipulation of one predictor might affect the criterion variable; while use case 2 is best for reducing a large number of predictors to just a few significant ones. Use case 1 might be more familiar as "Multiple Regression" while use case two is often demonstrated in techniques such as "Primary Component Analysis" or PCA, and Recursive Feature Elimination (RFE).  
 
 ## Classfication: A classic use of machine learning.
-The exoplanet datasetrepresents an oppurtunity to apply machine learning to a relevant problem: the classification of astronomical bodies. 
+The exoplanet datasetrepresents an oppurtunity to apply machine learning to a relevant problem: the classification of astronomical bodies. Since the identification of exoplanets can be crowdsourced, the Caltech dataset can theoretically be used to train a classification model that uses previously identified exoplanets to find more exoplanets in new data. Since whether something is or isn't an exoplanet is a binary question, staristical techniques developed for classification can be applied to this problem. This is true for many problems in Computer Science, as modt data can be binarized in one way or another. 
 
 ## Precision-vs-Recall: the Data Scientist's Dillemma. 
 
